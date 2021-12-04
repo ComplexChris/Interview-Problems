@@ -53,7 +53,7 @@ random_palindromes = [
     "drthyrsthStop pots jrdtujy ",
     "My dad is a racecar athlete",
     "abcda",
-    longAF
+    //longAF
     //"a"
 ]
 

@@ -59,3 +59,5 @@ function assert( obj ){
         console.log(`PASSED: ${obj[2]}`)
     )
 }
+
+console.log("RESULTS: ", results)
